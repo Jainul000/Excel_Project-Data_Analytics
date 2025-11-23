@@ -35,7 +35,8 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Median Salary across Data Science jobs - Bar Chart
 
-![](Screenshots/title_salary_chart.jpg)
+<img src="Screenshots/title_salary_chart.jpg"  width="50%">   
+
 
 - 🛠️ Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 Design Choice: Horizontal bar chart for visual comparison of median salaries.
@@ -45,7 +46,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Median Salary across the world - Map Chart
 
-![](Screenshots/map_chart.jpg)
+<img src="Screenshots/map_chart.jpg"  width="60%"> 
 
 - 🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 Design Choice: Color-coded map to visually differentiate salary levels across regions.
@@ -55,7 +56,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Median Salary scross different Job Types - Bar Chart
 
-![](Screenshots/type_salary_chart.jpg)
+<img src="Screenshots/type_salary_chart.jpg"  width="40%"> 
 
 - 🛠️ Excel Features: Utilized Excel’s bar chart and dynamic formulas to compare median salaries across different job types.
 - 🎨 Design Choice: Visual separation of job types (Full-time, Contract, Internship, Part-time) to highlight salary variations clearly.
@@ -85,7 +86,7 @@ IF(
 
 ##### 🍽️ Background Table
 
-![](Screenshots/title_salary_table.jpg)
+<img src="Screenshots/title_salary_table.jpg"  width="40%"> 
 
 #### ⏰ Count of Job Schedule Type
 
